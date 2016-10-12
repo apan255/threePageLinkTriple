@@ -1,0 +1,6 @@
+http://redis.io,http://www.facebook.com	http://www.google.com
+http://redis.io,http://www.google.com	http://www.facebook.com
+http://redis.io,http://www.twitter.com	http://www.google.com,http://www.facebook.com
+http://www.twitter.com,http://redis.io	http://www.google.com,http://www.facebook.com
+http://www.twitter.com,http://www.facebook.com	http://www.google.com
+http://www.twitter.com,http://www.google.com	http://www.facebook.com
