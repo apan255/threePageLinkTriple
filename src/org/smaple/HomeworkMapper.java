@@ -1,12 +1,4 @@
-/////////////////////////////////////////////////////////////////////
-//  HomeworkMapper.java - Mapper Class                             //
-//                                                                 //
-//  Language:      Java, Eclipse                                   //
-//  Platform:      Dell, Windows 8.1                               //
-//  Application:   CSE-612 , Assignment2,Spring2015                //
-//  Author:		   Ankur Pandey                                    //
-//  Reference:     HW Template Help                                //
-/////////////////////////////////////////////////////////////////////
+
 
 package org.smaple;
 
